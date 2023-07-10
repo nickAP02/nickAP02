@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @nickAP02 a software engineer
+### 👋 Hi, I’m Nicole Apaflo a software engineer
 - 👀 I’m interested in Electronics and IoT
 - 🌱 I’m also a mobile developer and UI designer
 - 💞️ I’m looking to collaborate on IoT projects wether any development project
