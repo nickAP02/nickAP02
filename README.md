@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Nicole Apaflo a software engineer
-- 👀 I’m currently learning software development best practices
-- 🌱 I’ll learn quality assurance best practices 
+- 👀 I’m currently learning software development best practices and how to be more agile
+- 🌱 I’ll next learn software quality assurance best practices
 - 💞️ I’m available for any software development projects
 ### 📫 Reach me out :
  nicoleapaflo@gmail.com or on www.linkedin.com/in/nicole-apaflo
