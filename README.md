@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Nicole Apaflo a software engineer
-- 👀 I’m interested in Electronics and IoT
-- 🌱 I’m also a mobile developer and UI designer
-- 💞️ I’m looking to collaborate on IoT projects wether any development project
+- 👀 I’m currently learning software development best practices
+- 🌱 I’ll learn quality assurance best practices 
+- 💞️ I’m available for any software development projects
 ### 📫 Reach me out :
  nicoleapaflo@gmail.com or on www.linkedin.com/in/nicole-apaflo
 ### Hard skills
@@ -19,10 +19,6 @@
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6"/>|
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-### Soft skills
-- Empathy
-- Sense of analysis
-- Communication
 ### Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nickAP02&theme=dark&background=000000)](https://git.io/streak-stats)
 <!---
