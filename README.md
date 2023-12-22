@@ -4,7 +4,7 @@
 - 💞️ I’m available for any software development projects
 ### 📫 Reach me out :
  nicoleapaflo@gmail.com or on www.linkedin.com/in/nicole-apaflo
-### Hard skills
+### Programming languages and tools
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>|
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>|
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>|
