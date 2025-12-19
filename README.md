@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Nicole Apaflo a mobile app developer
-- 👀 I’m constantly improving my skills to be more a efficient software developer
-- 🌱 I’m currently learning software quality assurance best practices
+- 👀 I’m constantly improving my skills to be a more efficient software developer
+- 🌱 Currently learning software quality assurance best practices
 - 💞️ I’m available for any software development projects or jobs or any collaboration
 ### 📫 Reach me out :
  nicole.apaflo.pro@gmail.com or on www.linkedin.com/in/nicole-apaflo
