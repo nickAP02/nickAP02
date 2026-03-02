@@ -3,7 +3,7 @@
 - 🌱 Currently learning software quality assurance best practices
 - 💞️ I’m available for any software development projects or jobs or any collaboration
 ### 📫 Reach me out :
- nicole.apaflo.pro@gmail.com or on www.linkedin.com/in/nicole-apaflo
+ nicoleapaflo@gmail.com or on www.linkedin.com/in/nicole-apaflo
 ### Programming languages and tools
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>|
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>|
